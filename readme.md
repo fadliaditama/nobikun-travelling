@@ -8,4 +8,9 @@ Website jasa pemesanan tiket wisata khususnya Wisata Kota Lampung.
 3. Untuk folder layout, folder ini berisi templating untuk tampilan Header (header.php) dan Footer (footer.php)
 
 ## Panduan install:
-1. Sebelumnya, import dulu script sql (db_travel)
+1. Pindahkan folder nobikun_travelling ke htdocs
+2. Buka folder db, lalu import script sql (db_travel) ke phpMyAdmin
+3. Buka browser, ketik url : localhost/nobikun_travelling
+
+* Catatan
+1. asuidashid
