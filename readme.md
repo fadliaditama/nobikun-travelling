@@ -13,4 +13,7 @@ Website jasa pemesanan tiket wisata khususnya Wisata Kota Lampung.
 3. Buka browser, ketik url : localhost/nobikun_travelling
 
 * Catatan
-1. asuidashid
+1. Untuk halaman order.php dan checkout.php, jika browser berada dibawah ukuran 1920 x 1080, maka kecilkan display browser anda ke ukuran 80% - 90% 
+
+# Developer
+1. Acmad Fadli Aditama
